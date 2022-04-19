@@ -1,0 +1,29 @@
+p:first-child
+{
+	font-size:9 mm;
+	font-style:italic;
+
+}
+p
+{
+	font-size:10pt;
+	background-color:rgb(144,238,144)
+	border-width: 764pt;
+	margin-left: auto;
+	margin-right: auto;
+}
+p:lang(pl)
+{
+	font-size:10pt;
+	border-width: 964pt;
+	margin-left: auto;
+	margin-right: auto;
+	background-color:rgb(135,206,250)
+}
+p:lang(en)
+{
+font-size:10pt;
+font-weight:bold;
+font-style:italic;
+background-color:silver;
+}
